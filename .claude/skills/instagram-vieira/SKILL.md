@@ -31,10 +31,12 @@ Entregue curto: 3 números (seguidores Δ, alcance, melhor post), 1 coisa que fu
 ## Fluxo 2 — Planejamento (calendário)
 
 - Ritmo alvo: 2 carrosséis + 2–3 Reels + stories 3–4x por semana. Nunca 3+ posts no mesmo dia.
-- Mix: 40% Reel de dor do empresário · 25% carrossel educativo · 20% bastidores/autoridade · 15% oferta (CTA palavra-chave no direct).
+- Públicos: **(A)** o empresário que quer começar a vender para o governo e **(B)** o empresário que já vende (execução do contrato, notificações, defesas, sanções, reequilíbrio, atraso de pagamento). Cerca de 60% A e 40% B. Cada peça fala com um só público.
+- Mix: 40% Reel de dor do empresário · 25% carrossel educativo · 20% bastidores/autoridade · 15% oferta (CTA palavra-chave no direct: GOVERNO, EDITAL, DEFESA).
+- Orientação de gravação: `docs/guia-gravacao-reels.md`. Vídeos recebidos: o ffmpeg ajusta áudio (loudnorm), luz/contraste e corte. Não há transcrição, então as legendas ficam por conta do CapCut ou do Edits.
 - Horário: `getBestTimeToPostByNetwork` (instagram, janela de 7 dias).
 - Antes de propor tema, liste os últimos 30 dias de posts e **não repita assunto** já coberto (ex.: SICX, licitante remanescente, habilitação já saturados em ago/set 2026).
-- Entregue em tabela: data · formato · público (empresário iniciante / fornecedor experiente) · tema · gancho · CTA.
+- Entregue em tabela: data · formato · público (A iniciante / B já vende) · tema · gancho · CTA.
 
 ## Fluxo 3 — Criação de conteúdo
 

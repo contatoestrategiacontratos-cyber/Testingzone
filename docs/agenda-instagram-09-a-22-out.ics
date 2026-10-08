@@ -15,7 +15,7 @@ TZNAME:-03
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d38e7401-b7ad-4f8e-a45f-51ca0def4e84@vieiraconsultores
+UID:75bcaedd-aefa-4127-9fd3-f8f08dc937ce@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261009T083000
 DTEND;TZID=America/Sao_Paulo:20261009T093000
@@ -38,7 +38,7 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:18a3b4d3-5fd3-4d81-8e9c-8e5be08c81a9@vieiraconsultores
+UID:02ddcbd4-6faa-4395-85cb-6a1af42c854e@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261009T100000
 DTEND;TZID=America/Sao_Paulo:20261009T103000
@@ -59,7 +59,7 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a918a3ca-896d-4c32-ae35-6ce442dfabcd@vieiraconsultores
+UID:b9f84471-f815-48ed-8148-caf149fdc2c9@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261009T140000
 DTEND;TZID=America/Sao_Paulo:20261009T153000
@@ -85,7 +85,7 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:42633f04-8799-4bb8-b505-9325cf227148@vieiraconsultores
+UID:7574420c-1842-4dbf-8b21-7c88b64458a4@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261010T100000
 DTEND;TZID=America/Sao_Paulo:20261010T101500
@@ -100,7 +100,7 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6823e1de-d5fd-4f14-8b18-c425165a47c4@vieiraconsultores
+UID:efbbeae4-15d9-41af-8891-631bdbc19fbc@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261012T100000
 DTEND;TZID=America/Sao_Paulo:20261012T101500
@@ -114,7 +114,7 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:04c7de1e-7d21-46d5-bb30-d0f5d80dbd7f@vieiraconsultores
+UID:bbd2e4b1-89f3-4079-a3c3-ee2da40afc63@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261012T180000
 DTEND;TZID=America/Sao_Paulo:20261012T183000
@@ -129,7 +129,7 @@ TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:74116e65-385d-414c-8ceb-7a9acfcc5e8a@vieiraconsultores
+UID:32fd7362-b9ed-4118-8f17-d0d76b0b516d@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261013T100000
 DTEND;TZID=America/Sao_Paulo:20261013T103000
@@ -157,7 +157,7 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b7cbbec3-ab16-4a96-95f0-f80c101b5421@vieiraconsultores
+UID:f1d28b69-3c0e-40de-b809-fe056653dee2@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261014T180000
 DTEND;TZID=America/Sao_Paulo:20261014T183000
@@ -174,7 +174,7 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:57bd8e0d-65eb-470c-8de4-580c6b43f26e@vieiraconsultores
+UID:c3894f87-3ad8-4368-b473-c6aeda2bf8b7@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261015T100000
 DTEND;TZID=America/Sao_Paulo:20261015T103000
@@ -201,7 +201,7 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9fefe986-658c-4265-b6fa-371e616e7969@vieiraconsultores
+UID:30904d0b-5221-4566-be8d-b502857ab637@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261016T100000
 DTEND;TZID=America/Sao_Paulo:20261016T103000
@@ -218,11 +218,11 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:189a1884-4765-415f-a7e0-cb0332583b41@vieiraconsultores
+UID:032ddd0b-4b60-4fea-ad39-6302fd644310@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261016T140000
 DTEND;TZID=America/Sao_Paulo:20261016T153000
-SUMMARY:🎥 Gravar Reels 7 (Atestado) e 9 (Pregão em 30s)
+SUMMARY:🎥 Gravar Reels 7 (Atestado) e 9 (Notificação/Defesa)
 DESCRIPTION:Grave os 2 vídeos de uma vez (celular em pé\, olhando para a 
  câmera).\n\nREEL 7 – ATESTADO (posta na terça\, 20/10\, às 18h). Cerc
  a de 30 segundos:\n1. "O edital pede atestado\, mas você nunca vendeu par
@@ -231,21 +231,28 @@ DESCRIPTION:Grave os 2 vídeos de uma vez (celular em pé\, olhando para a
  or empresa privada." (texto na tela: Art. 67)\n4. "Ou seja: um cliente emp
  resa para quem você já forneceu pode emitir o seu atestado."\n5. "Ele pr
  ecisa ser compatível com o objeto. Guarde as notas fiscais."\n6. "Comente
-  ATESTADO que eu te mando um modelo."\n\nREEL 9 – PREGÃO EM 30 SEGUNDOS
-  (posta na quinta\, 22/10\, às 18h):\n"Você sabe o que acontece em um pr
- egão eletrônico? Em 30 segundos."\nTexto na tela\, uma etapa por vez: 1.
-  Propostas · 2. Lances · 3. Análise da proposta · 4. Habilitação · 
- 5. Recurso · 6. Adjudicação e homologação\nFechamento: "Em qual dessa
- s etapas a sua empresa costuma travar?"\n\nDepois\, envie os 2 vídeos ao 
- Claude.
+  ATESTADO que eu te mando um modelo."\n\nREEL 9 – NOTIFICAÇÃO DO ÓRG
+ ÃO (posta na quinta\, 22/10\, às 18h). Cerca de 30 segundos:\n⚠️ Ant
+ es de gravar\, confira os prazos dos arts. 157\, 158 e 166 da Lei 14.133.\
+ n1. "Sua empresa recebeu uma notificação do órgão público? Não ignor
+ e. O prazo já está correndo."\n2. "Atraso na entrega\, produto recusado 
+ ou uma suposta falha na execução podem virar um processo de sanção."\n
+ 3. "A Lei 14.133 garante defesa antes da punição. Em regra\, o prazo é 
+ de 15 dias úteis a partir da intimação." (texto na tela: Arts. 157 e 15
+ 8)\n4. "Uma defesa bem feita pode evitar multa\, impedimento de licitar e 
+ até a perda do contrato."\n5. "O erro mais comum é responder no improvis
+ o\, por e-mail\, sem documento nenhum."\n6. "Recebeu uma notificação? Ma
+ nde DEFESA no direct."\n\nDICAS: veja o guia de gravação (luz de frente\
+ , microfone de lapela\, gancho nos 2 primeiros segundos\, legendas no CapC
+ ut ou no Edits).\n\nDepois\, envie os 2 vídeos ao Claude.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🎥 Gravar Reels 7 (Atestado) e 9 (Pregão em 30s)
+DESCRIPTION:🎥 Gravar Reels 7 (Atestado) e 9 (Notificação/Defesa)
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ee566a22-6e42-485b-bd86-8848bd3b2b18@vieiraconsultores
+UID:1d893c82-1213-4f0e-9a1d-ee16eaa20453@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261017T100000
 DTEND;TZID=America/Sao_Paulo:20261017T101500
@@ -259,7 +266,7 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:585f0d41-0888-434d-b86d-42ff91c9af2f@vieiraconsultores
+UID:f6cf2247-0f5f-404c-a55c-a0c911e68483@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261018T180000
 DTEND;TZID=America/Sao_Paulo:20261018T181500
@@ -273,7 +280,7 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:308b67e4-529e-4707-a8ba-491a40ea180a@vieiraconsultores
+UID:ac69e2f7-5411-4ae7-a993-712f4a8f23ce@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261019T100000
 DTEND;TZID=America/Sao_Paulo:20261019T103000
@@ -300,7 +307,7 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:e3cf6432-1dee-4048-9bf1-5a5212db1d42@vieiraconsultores
+UID:afd26b14-e988-43f5-8ee9-077832140832@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261020T180000
 DTEND;TZID=America/Sao_Paulo:20261020T183000
@@ -318,7 +325,7 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:04c83e82-dc01-4d9e-875e-f2e28e30af5f@vieiraconsultores
+UID:a3830ffe-3957-46fd-a754-d9f85a0e1042@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261021T100000
 DTEND;TZID=America/Sao_Paulo:20261021T103000
@@ -343,24 +350,27 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:92f40627-74ec-4034-97d2-42be91053714@vieiraconsultores
+UID:c08bd387-c341-4f52-8ead-4e6962cb0bc2@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261022T180000
 DTEND;TZID=America/Sao_Paulo:20261022T183000
-SUMMARY:📲 Publicar Reel 9 – Pregão eletrônico em 30 segundos
+SUMMARY:📲 Publicar Reel 9 – Recebeu notificação do órgão?
 DESCRIPTION:O QUE FAZER: publicar o Reel 9 (gravado em 16/10).\n\nLEGENDA:\
- nO pregão eletrônico não termina no lance.\n\nEm qual etapa você mais 
- trava? Responda aqui que eu faço um vídeo sobre ela.\n\n#pregaoeletronic
- o #licitacao #comprasgov #lei14133\n\nDEPOIS: peça ao Claude a análise d
- as 2 semanas e o próximo calendário.
+ nRecebeu uma notificação do órgão? O prazo para se defender já começ
+ ou.\n\nAdvertência\, multa e impedimento de licitar podem ser evitados co
+ m uma defesa técnica e bem documentada.\n\nMande DEFESA no direct.\n\n#co
+ ntratoadministrativo #defesaadministrativa #lei14133 #licitacao\n\nDEPOIS:
+  Stories com enquete: "Sua empresa já recebeu uma notificação de órgã
+ o público? Sim / Não". Peça ao Claude a análise das 2 semanas e o pró
+ ximo calendário.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:📲 Publicar Reel 9 – Pregão eletrônico em 30 segundos
+DESCRIPTION:📲 Publicar Reel 9 – Recebeu notificação do órgão?
 TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ac978c61-f9ab-4a82-8643-4864a27a6ee7@vieiraconsultores
+UID:8812da27-034e-4043-9def-426235d90580@vieiraconsultores
 DTSTAMP:20261008T120000Z
 DTSTART;TZID=America/Sao_Paulo:20261009T120000
 DTEND;TZID=America/Sao_Paulo:20261009T122000
